@@ -6,9 +6,6 @@
   The [PhonePe Pulse website](https://www.phonepe.com/pulse/explore/transaction/2022/4/) showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits.
 The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the [PhonePe Pulse website](https://www.phonepe.com/pulse/explore/transaction/2022/4/) and [GitHub](https://github.com/PhonePe/pulse).
 
-### Want to see demo video of my project? - [Click here](https://www.linkedin.com/feed/update/urn:li:activity:7044603100271181824/)
-
-
 # Libraries/Modules needed for the project!
 
  1. [Plotly](https://plotly.com/python/) - (To plot and visualize the data)
